@@ -1,0 +1,3902 @@
+[
+  {
+    "id": "the-godfather-1972",
+    "title": "The Godfather",
+    "year": 1972,
+    "director": "Francis Ford Coppola",
+    "cast": [
+      "Marlon Brando",
+      "Al Pacino",
+      "James Caan"
+    ],
+    "genre": "Crime",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-godfather-part-ii-1974",
+    "title": "The Godfather Part II",
+    "year": 1974,
+    "director": "Francis Ford Coppola",
+    "cast": [
+      "Al Pacino",
+      "Robert De Niro",
+      "Robert Duvall"
+    ],
+    "genre": "Crime",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "apocalypse-now-1979",
+    "title": "Apocalypse Now",
+    "year": 1979,
+    "director": "Francis Ford Coppola",
+    "cast": [
+      "Martin Sheen",
+      "Marlon Brando",
+      "Robert Duvall"
+    ],
+    "genre": "War",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-conversation-1974",
+    "title": "The Conversation",
+    "year": 1974,
+    "director": "Francis Ford Coppola",
+    "cast": [
+      "Gene Hackman",
+      "John Cazale",
+      "Harrison Ford"
+    ],
+    "genre": "Thriller",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "taxi-driver-1976",
+    "title": "Taxi Driver",
+    "year": 1976,
+    "director": "Martin Scorsese",
+    "cast": [
+      "Robert De Niro",
+      "Jodie Foster",
+      "Cybill Shepherd"
+    ],
+    "genre": "Crime",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "raging-bull-1980",
+    "title": "Raging Bull",
+    "year": 1980,
+    "director": "Martin Scorsese",
+    "cast": [
+      "Robert De Niro",
+      "Joe Pesci",
+      "Cathy Moriarty"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "goodfellas-1990",
+    "title": "Goodfellas",
+    "year": 1990,
+    "director": "Martin Scorsese",
+    "cast": [
+      "Robert De Niro",
+      "Ray Liotta",
+      "Joe Pesci"
+    ],
+    "genre": "Crime",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "casino-1995",
+    "title": "Casino",
+    "year": 1995,
+    "director": "Martin Scorsese",
+    "cast": [
+      "Robert De Niro",
+      "Sharon Stone",
+      "Joe Pesci"
+    ],
+    "genre": "Crime",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-king-of-comedy-1982",
+    "title": "The King of Comedy",
+    "year": 1982,
+    "director": "Martin Scorsese",
+    "cast": [
+      "Robert De Niro",
+      "Jerry Lewis",
+      "Sandra Bernhard"
+    ],
+    "genre": "Comedy",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-departed-2006",
+    "title": "The Departed",
+    "year": 2006,
+    "director": "Martin Scorsese",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Matt Damon",
+      "Jack Nicholson"
+    ],
+    "genre": "Crime",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "jaws-1975",
+    "title": "Jaws",
+    "year": 1975,
+    "director": "Steven Spielberg",
+    "cast": [
+      "Roy Scheider",
+      "Robert Shaw",
+      "Richard Dreyfuss"
+    ],
+    "genre": "Thriller",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "close-encounters-of-the-third-kind-1977",
+    "title": "Close Encounters of the Third Kind",
+    "year": 1977,
+    "director": "Steven Spielberg",
+    "cast": [
+      "Richard Dreyfuss",
+      "François Truffaut",
+      "Melinda Dillon"
+    ],
+    "genre": "Sci-Fi",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "raiders-of-the-lost-ark-1981",
+    "title": "Raiders of the Lost Ark",
+    "year": 1981,
+    "director": "Steven Spielberg",
+    "cast": [
+      "Harrison Ford",
+      "Karen Allen",
+      "Paul Freeman"
+    ],
+    "genre": "Adventure",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "e-t-the-extra-terrestrial-1982",
+    "title": "E.T. the Extra-Terrestrial",
+    "year": 1982,
+    "director": "Steven Spielberg",
+    "cast": [
+      "Henry Thomas",
+      "Drew Barrymore",
+      "Peter Coyote"
+    ],
+    "genre": "Sci-Fi",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "jurassic-park-1993",
+    "title": "Jurassic Park",
+    "year": 1993,
+    "director": "Steven Spielberg",
+    "cast": [
+      "Sam Neill",
+      "Laura Dern",
+      "Jeff Goldblum"
+    ],
+    "genre": "Adventure",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "schindler-s-list-1993",
+    "title": "Schindler’s List",
+    "year": 1993,
+    "director": "Steven Spielberg",
+    "cast": [
+      "Liam Neeson",
+      "Ben Kingsley",
+      "Ralph Fiennes"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "saving-private-ryan-1998",
+    "title": "Saving Private Ryan",
+    "year": 1998,
+    "director": "Steven Spielberg",
+    "cast": [
+      "Tom Hanks",
+      "Matt Damon",
+      "Tom Sizemore"
+    ],
+    "genre": "War",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "catch-me-if-you-can-2002",
+    "title": "Catch Me If You Can",
+    "year": 2002,
+    "director": "Steven Spielberg",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Tom Hanks",
+      "Christopher Walken"
+    ],
+    "genre": "Crime",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "alien-1979",
+    "title": "Alien",
+    "year": 1979,
+    "director": "Ridley Scott",
+    "cast": [
+      "Sigourney Weaver",
+      "Tom Skerritt",
+      "John Hurt"
+    ],
+    "genre": "Sci-Fi",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "blade-runner-1982",
+    "title": "Blade Runner",
+    "year": 1982,
+    "director": "Ridley Scott",
+    "cast": [
+      "Harrison Ford",
+      "Rutger Hauer",
+      "Sean Young"
+    ],
+    "genre": "Sci-Fi",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "thelma-louise-1991",
+    "title": "Thelma & Louise",
+    "year": 1991,
+    "director": "Ridley Scott",
+    "cast": [
+      "Geena Davis",
+      "Susan Sarandon",
+      "Harvey Keitel"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "gladiator-2000",
+    "title": "Gladiator",
+    "year": 2000,
+    "director": "Ridley Scott",
+    "cast": [
+      "Russell Crowe",
+      "Joaquin Phoenix",
+      "Connie Nielsen"
+    ],
+    "genre": "Action",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "black-hawk-down-2001",
+    "title": "Black Hawk Down",
+    "year": 2001,
+    "director": "Ridley Scott",
+    "cast": [
+      "Josh Hartnett",
+      "Ewan McGregor",
+      "Eric Bana"
+    ],
+    "genre": "War",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-martian-2015",
+    "title": "The Martian",
+    "year": 2015,
+    "director": "Ridley Scott",
+    "cast": [
+      "Matt Damon",
+      "Jessica Chastain",
+      "Chiwetel Ejiofor"
+    ],
+    "genre": "Sci-Fi",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "pulp-fiction-1994",
+    "title": "Pulp Fiction",
+    "year": 1994,
+    "director": "Quentin Tarantino",
+    "cast": [
+      "John Travolta",
+      "Uma Thurman",
+      "Samuel L. Jackson"
+    ],
+    "genre": "Crime",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "reservoir-dogs-1992",
+    "title": "Reservoir Dogs",
+    "year": 1992,
+    "director": "Quentin Tarantino",
+    "cast": [
+      "Harvey Keitel",
+      "Tim Roth",
+      "Michael Madsen"
+    ],
+    "genre": "Crime",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "kill-bill-vol-1-2003",
+    "title": "Kill Bill: Vol. 1",
+    "year": 2003,
+    "director": "Quentin Tarantino",
+    "cast": [
+      "Uma Thurman",
+      "David Carradine",
+      "Lucy Liu"
+    ],
+    "genre": "Action",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "inglourious-basterds-2009",
+    "title": "Inglourious Basterds",
+    "year": 2009,
+    "director": "Quentin Tarantino",
+    "cast": [
+      "Brad Pitt",
+      "Christoph Waltz",
+      "Diane Kruger"
+    ],
+    "genre": "War",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "django-unchained-2012",
+    "title": "Django Unchained",
+    "year": 2012,
+    "director": "Quentin Tarantino",
+    "cast": [
+      "Jamie Foxx",
+      "Christoph Waltz",
+      "Leonardo DiCaprio"
+    ],
+    "genre": "Western",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "once-upon-a-time-in-hollywood-2019",
+    "title": "Once Upon a Time in Hollywood",
+    "year": 2019,
+    "director": "Quentin Tarantino",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Brad Pitt",
+      "Margot Robbie"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-shining-1980",
+    "title": "The Shining",
+    "year": 1980,
+    "director": "Stanley Kubrick",
+    "cast": [
+      "Jack Nicholson",
+      "Shelley Duvall",
+      "Danny Lloyd"
+    ],
+    "genre": "Horror",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "full-metal-jacket-1987",
+    "title": "Full Metal Jacket",
+    "year": 1987,
+    "director": "Stanley Kubrick",
+    "cast": [
+      "Matthew Modine",
+      "R. Lee Ermey",
+      "Vincent D’Onofrio"
+    ],
+    "genre": "War",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "a-clockwork-orange-1971",
+    "title": "A Clockwork Orange",
+    "year": 1971,
+    "director": "Stanley Kubrick",
+    "cast": [
+      "Malcolm McDowell",
+      "Patrick Magee",
+      "Michael Bates"
+    ],
+    "genre": "Crime",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "barry-lyndon-1975",
+    "title": "Barry Lyndon",
+    "year": 1975,
+    "director": "Stanley Kubrick",
+    "cast": [
+      "Ryan O’Neal",
+      "Marisa Berenson",
+      "Patrick Magee"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "eyes-wide-shut-1999",
+    "title": "Eyes Wide Shut",
+    "year": 1999,
+    "director": "Stanley Kubrick",
+    "cast": [
+      "Tom Cruise",
+      "Nicole Kidman",
+      "Sydney Pollack"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-dark-knight-2008",
+    "title": "The Dark Knight",
+    "year": 2008,
+    "director": "Christopher Nolan",
+    "cast": [
+      "Christian Bale",
+      "Heath Ledger",
+      "Aaron Eckhart"
+    ],
+    "genre": "Action",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "inception-2010",
+    "title": "Inception",
+    "year": 2010,
+    "director": "Christopher Nolan",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Joseph Gordon-Levitt",
+      "Ellen Page"
+    ],
+    "genre": "Sci-Fi",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "interstellar-2014",
+    "title": "Interstellar",
+    "year": 2014,
+    "director": "Christopher Nolan",
+    "cast": [
+      "Matthew McConaughey",
+      "Anne Hathaway",
+      "Jessica Chastain"
+    ],
+    "genre": "Sci-Fi",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "dunkirk-2017",
+    "title": "Dunkirk",
+    "year": 2017,
+    "director": "Christopher Nolan",
+    "cast": [
+      "Fionn Whitehead",
+      "Tom Hardy",
+      "Mark Rylance"
+    ],
+    "genre": "War",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "oppenheimer-2023",
+    "title": "Oppenheimer",
+    "year": 2023,
+    "director": "Christopher Nolan",
+    "cast": [
+      "Cillian Murphy",
+      "Emily Blunt",
+      "Robert Downey Jr."
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "memento-2000",
+    "title": "Memento",
+    "year": 2000,
+    "director": "Christopher Nolan",
+    "cast": [
+      "Guy Pearce",
+      "Carrie-Anne Moss",
+      "Joe Pantoliano"
+    ],
+    "genre": "Thriller",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-matrix-1999",
+    "title": "The Matrix",
+    "year": 1999,
+    "director": "Lana Wachowski & Lilly Wachowski",
+    "cast": [
+      "Keanu Reeves",
+      "Laurence Fishburne",
+      "Carrie-Anne Moss"
+    ],
+    "genre": "Sci-Fi",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "cloud-atlas-2012",
+    "title": "Cloud Atlas",
+    "year": 2012,
+    "director": "Lana Wachowski & Lilly Wachowski",
+    "cast": [
+      "Tom Hanks",
+      "Halle Berry",
+      "Hugh Grant"
+    ],
+    "genre": "Sci-Fi",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "speed-racer-2008",
+    "title": "Speed Racer",
+    "year": 2008,
+    "director": "Lana Wachowski & Lilly Wachowski",
+    "cast": [
+      "Emile Hirsch",
+      "Christina Ricci",
+      "John Goodman"
+    ],
+    "genre": "Action",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "moonlight-2016",
+    "title": "Moonlight",
+    "year": 2016,
+    "director": "Barry Jenkins",
+    "cast": [
+      "Mahershala Ali",
+      "Naomie Harris",
+      "Trevante Rhodes"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "if-beale-street-could-talk-2018",
+    "title": "If Beale Street Could Talk",
+    "year": 2018,
+    "director": "Barry Jenkins",
+    "cast": [
+      "KiKi Layne",
+      "Stephan James",
+      "Regina King"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-grand-budapest-hotel-2014",
+    "title": "The Grand Budapest Hotel",
+    "year": 2014,
+    "director": "Wes Anderson",
+    "cast": [
+      "Ralph Fiennes",
+      "Tony Revolori",
+      "Saoirse Ronan"
+    ],
+    "genre": "Comedy",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-royal-tenenbaums-2001",
+    "title": "The Royal Tenenbaums",
+    "year": 2001,
+    "director": "Wes Anderson",
+    "cast": [
+      "Gene Hackman",
+      "Gwyneth Paltrow",
+      "Luke Wilson"
+    ],
+    "genre": "Comedy",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-french-dispatch-2021",
+    "title": "The French Dispatch",
+    "year": 2021,
+    "director": "Wes Anderson",
+    "cast": [
+      "Benicio del Toro",
+      "Adrien Brody",
+      "Tilda Swinton"
+    ],
+    "genre": "Comedy",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "fantastic-mr-fox-2009",
+    "title": "Fantastic Mr. Fox",
+    "year": 2009,
+    "director": "Wes Anderson",
+    "cast": [
+      "George Clooney",
+      "Meryl Streep",
+      "Jason Schwartzman"
+    ],
+    "genre": "Animation",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "parasite-2019",
+    "title": "Parasite",
+    "year": 2019,
+    "director": "Bong Joon Ho",
+    "cast": [
+      "Song Kang-ho",
+      "Lee Sun-kyun",
+      "Cho Yeo-jeong"
+    ],
+    "genre": "Thriller",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "memories-of-murder-2003",
+    "title": "Memories of Murder",
+    "year": 2003,
+    "director": "Bong Joon Ho",
+    "cast": [
+      "Song Kang-ho",
+      "Kim Sang-kyung",
+      "Kim Roi-ha"
+    ],
+    "genre": "Crime",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-host-2006",
+    "title": "The Host",
+    "year": 2006,
+    "director": "Bong Joon Ho",
+    "cast": [
+      "Song Kang-ho",
+      "Byun Hee-bong",
+      "Bae Doona"
+    ],
+    "genre": "Horror",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "snowpiercer-2013",
+    "title": "Snowpiercer",
+    "year": 2013,
+    "director": "Bong Joon Ho",
+    "cast": [
+      "Chris Evans",
+      "Song Kang-ho",
+      "Tilda Swinton"
+    ],
+    "genre": "Sci-Fi",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "okja-2017",
+    "title": "Okja",
+    "year": 2017,
+    "director": "Bong Joon Ho",
+    "cast": [
+      "Ahn Seo-hyun",
+      "Tilda Swinton",
+      "Paul Dano"
+    ],
+    "genre": "Adventure",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "mulholland-drive-2001",
+    "title": "Mulholland Drive",
+    "year": 2001,
+    "director": "David Lynch",
+    "cast": [
+      "Naomi Watts",
+      "Laura Harring",
+      "Justin Theroux"
+    ],
+    "genre": "Mystery",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "blue-velvet-1986",
+    "title": "Blue Velvet",
+    "year": 1986,
+    "director": "David Lynch",
+    "cast": [
+      "Isabella Rossellini",
+      "Kyle MacLachlan",
+      "Dennis Hopper"
+    ],
+    "genre": "Mystery",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-elephant-man-1980",
+    "title": "The Elephant Man",
+    "year": 1980,
+    "director": "David Lynch",
+    "cast": [
+      "Anthony Hopkins",
+      "John Hurt",
+      "Anne Bancroft"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "dune-2021",
+    "title": "Dune",
+    "year": 2021,
+    "director": "Denis Villeneuve",
+    "cast": [
+      "Timothée Chalamet",
+      "Rebecca Ferguson",
+      "Oscar Isaac"
+    ],
+    "genre": "Sci-Fi",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "arrival-2016",
+    "title": "Arrival",
+    "year": 2016,
+    "director": "Denis Villeneuve",
+    "cast": [
+      "Amy Adams",
+      "Jeremy Renner",
+      "Forest Whitaker"
+    ],
+    "genre": "Sci-Fi",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "blade-runner-2049-2017",
+    "title": "Blade Runner 2049",
+    "year": 2017,
+    "director": "Denis Villeneuve",
+    "cast": [
+      "Ryan Gosling",
+      "Harrison Ford",
+      "Ana de Armas"
+    ],
+    "genre": "Sci-Fi",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "sicario-2015",
+    "title": "Sicario",
+    "year": 2015,
+    "director": "Denis Villeneuve",
+    "cast": [
+      "Emily Blunt",
+      "Benicio del Toro",
+      "Josh Brolin"
+    ],
+    "genre": "Thriller",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "eternal-sunshine-of-the-spotless-mind-2004",
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "year": 2004,
+    "director": "Michel Gondry",
+    "cast": [
+      "Jim Carrey",
+      "Kate Winslet",
+      "Tom Wilkinson"
+    ],
+    "genre": "Romance",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "being-john-malkovich-1999",
+    "title": "Being John Malkovich",
+    "year": 1999,
+    "director": "Spike Jonze",
+    "cast": [
+      "John Cusack",
+      "Cameron Diaz",
+      "Catherine Keener"
+    ],
+    "genre": "Comedy",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "her-2013",
+    "title": "Her",
+    "year": 2013,
+    "director": "Spike Jonze",
+    "cast": [
+      "Joaquin Phoenix",
+      "Scarlett Johansson",
+      "Amy Adams"
+    ],
+    "genre": "Romance",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "lost-in-translation-2003",
+    "title": "Lost in Translation",
+    "year": 2003,
+    "director": "Sofia Coppola",
+    "cast": [
+      "Bill Murray",
+      "Scarlett Johansson",
+      "Giovanni Ribisi"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-virgin-suicides-1999",
+    "title": "The Virgin Suicides",
+    "year": 1999,
+    "director": "Sofia Coppola",
+    "cast": [
+      "Kirsten Dunst",
+      "Josh Hartnett",
+      "James Woods"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "portrait-of-a-lady-on-fire-2019",
+    "title": "Portrait of a Lady on Fire",
+    "year": 2019,
+    "director": "Céline Sciamma",
+    "cast": [
+      "Noémie Merlant",
+      "Adèle Haenel",
+      "Luàna Bajrami"
+    ],
+    "genre": "Romance",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "petite-maman-2021",
+    "title": "Petite Maman",
+    "year": 2021,
+    "director": "Céline Sciamma",
+    "cast": [
+      "Joséphine Sanz",
+      "Gabrielle Sanz",
+      "Nina Meurisse"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "do-the-right-thing-1989",
+    "title": "Do the Right Thing",
+    "year": 1989,
+    "director": "Spike Lee",
+    "cast": [
+      "Danny Aiello",
+      "Ossie Davis",
+      "John Turturro"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "malcolm-x-1992",
+    "title": "Malcolm X",
+    "year": 1992,
+    "director": "Spike Lee",
+    "cast": [
+      "Denzel Washington",
+      "Angela Bassett",
+      "Delroy Lindo"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "blackkklansman-2018",
+    "title": "BlacKkKlansman",
+    "year": 2018,
+    "director": "Spike Lee",
+    "cast": [
+      "John David Washington",
+      "Adam Driver",
+      "Laura Harrier"
+    ],
+    "genre": "Crime",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-piano-1993",
+    "title": "The Piano",
+    "year": 1993,
+    "director": "Jane Campion",
+    "cast": [
+      "Holly Hunter",
+      "Harvey Keitel",
+      "Sam Neill"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-power-of-the-dog-2021",
+    "title": "The Power of the Dog",
+    "year": 2021,
+    "director": "Jane Campion",
+    "cast": [
+      "Benedict Cumberbatch",
+      "Kirsten Dunst",
+      "Jesse Plemons"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-hurt-locker-2008",
+    "title": "The Hurt Locker",
+    "year": 2008,
+    "director": "Kathryn Bigelow",
+    "cast": [
+      "Jeremy Renner",
+      "Anthony Mackie",
+      "Brian Geraghty"
+    ],
+    "genre": "War",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "zero-dark-thirty-2012",
+    "title": "Zero Dark Thirty",
+    "year": 2012,
+    "director": "Kathryn Bigelow",
+    "cast": [
+      "Jessica Chastain",
+      "Joel Edgerton",
+      "Chris Pratt"
+    ],
+    "genre": "Thriller",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-silence-of-the-lambs-1991",
+    "title": "The Silence of the Lambs",
+    "year": 1991,
+    "director": "Jonathan Demme",
+    "cast": [
+      "Jodie Foster",
+      "Anthony Hopkins",
+      "Scott Glenn"
+    ],
+    "genre": "Thriller",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "philadelphia-1993",
+    "title": "Philadelphia",
+    "year": 1993,
+    "director": "Jonathan Demme",
+    "cast": [
+      "Tom Hanks",
+      "Denzel Washington",
+      "Antonio Banderas"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-truman-show-1998",
+    "title": "The Truman Show",
+    "year": 1998,
+    "director": "Peter Weir",
+    "cast": [
+      "Jim Carrey",
+      "Ed Harris",
+      "Laura Linney"
+    ],
+    "genre": "Comedy",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "dead-poets-society-1989",
+    "title": "Dead Poets Society",
+    "year": 1989,
+    "director": "Peter Weir",
+    "cast": [
+      "Robin Williams",
+      "Ethan Hawke",
+      "Robert Sean Leonard"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "master-and-commander-2003",
+    "title": "Master and Commander",
+    "year": 2003,
+    "director": "Peter Weir",
+    "cast": [
+      "Russell Crowe",
+      "Paul Bettany",
+      "Billy Boyd"
+    ],
+    "genre": "Adventure",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-green-mile-1999",
+    "title": "The Green Mile",
+    "year": 1999,
+    "director": "Frank Darabont",
+    "cast": [
+      "Tom Hanks",
+      "Michael Clarke Duncan",
+      "David Morse"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-shawshank-redemption-1994",
+    "title": "The Shawshank Redemption",
+    "year": 1994,
+    "director": "Frank Darabont",
+    "cast": [
+      "Tim Robbins",
+      "Morgan Freeman",
+      "Bob Gunton"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "fight-club-1999",
+    "title": "Fight Club",
+    "year": 1999,
+    "director": "David Fincher",
+    "cast": [
+      "Brad Pitt",
+      "Edward Norton",
+      "Helena Bonham Carter"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "se7en-1995",
+    "title": "Se7en",
+    "year": 1995,
+    "director": "David Fincher",
+    "cast": [
+      "Brad Pitt",
+      "Morgan Freeman",
+      "Gwyneth Paltrow"
+    ],
+    "genre": "Crime",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-social-network-2010",
+    "title": "The Social Network",
+    "year": 2010,
+    "director": "David Fincher",
+    "cast": [
+      "Jesse Eisenberg",
+      "Andrew Garfield",
+      "Justin Timberlake"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "gone-girl-2014",
+    "title": "Gone Girl",
+    "year": 2014,
+    "director": "David Fincher",
+    "cast": [
+      "Ben Affleck",
+      "Rosamund Pike",
+      "Neil Patrick Harris"
+    ],
+    "genre": "Thriller",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "zodiac-2007",
+    "title": "Zodiac",
+    "year": 2007,
+    "director": "David Fincher",
+    "cast": [
+      "Jake Gyllenhaal",
+      "Robert Downey Jr.",
+      "Mark Ruffalo"
+    ],
+    "genre": "Mystery",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-lord-of-the-rings-the-fellowship-of-the-ring-2001",
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": 2001,
+    "director": "Peter Jackson",
+    "cast": [
+      "Elijah Wood",
+      "Ian McKellen",
+      "Viggo Mortensen"
+    ],
+    "genre": "Fantasy",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-lord-of-the-rings-the-two-towers-2002",
+    "title": "The Lord of the Rings: The Two Towers",
+    "year": 2002,
+    "director": "Peter Jackson",
+    "cast": [
+      "Elijah Wood",
+      "Ian McKellen",
+      "Viggo Mortensen"
+    ],
+    "genre": "Fantasy",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-lord-of-the-rings-the-return-of-the-king-2003",
+    "title": "The Lord of the Rings: The Return of the King",
+    "year": 2003,
+    "director": "Peter Jackson",
+    "cast": [
+      "Elijah Wood",
+      "Ian McKellen",
+      "Viggo Mortensen"
+    ],
+    "genre": "Fantasy",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-hobbit-an-unexpected-journey-2012",
+    "title": "The Hobbit: An Unexpected Journey",
+    "year": 2012,
+    "director": "Peter Jackson",
+    "cast": [
+      "Martin Freeman",
+      "Ian McKellen",
+      "Richard Armitage"
+    ],
+    "genre": "Fantasy",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "toy-story-1995",
+    "title": "Toy Story",
+    "year": 1995,
+    "director": "John Lasseter",
+    "cast": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Don Rickles"
+    ],
+    "genre": "Animation",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "toy-story-3-2010",
+    "title": "Toy Story 3",
+    "year": 2010,
+    "director": "Lee Unkrich",
+    "cast": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Joan Cusack"
+    ],
+    "genre": "Animation",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "up-2009",
+    "title": "Up",
+    "year": 2009,
+    "director": "Pete Docter",
+    "cast": [
+      "Edward Asner",
+      "Jordan Nagai",
+      "John Ratzenberger"
+    ],
+    "genre": "Animation",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "wall-e-2008",
+    "title": "WALL-E",
+    "year": 2008,
+    "director": "Andrew Stanton",
+    "cast": [
+      "Ben Burtt",
+      "Elissa Knight",
+      "Jeff Garlin"
+    ],
+    "genre": "Animation",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "finding-nemo-2003",
+    "title": "Finding Nemo",
+    "year": 2003,
+    "director": "Andrew Stanton",
+    "cast": [
+      "Albert Brooks",
+      "Ellen DeGeneres",
+      "Alexander Gould"
+    ],
+    "genre": "Animation",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-incredibles-2004",
+    "title": "The Incredibles",
+    "year": 2004,
+    "director": "Brad Bird",
+    "cast": [
+      "Craig T. Nelson",
+      "Holly Hunter",
+      "Samuel L. Jackson"
+    ],
+    "genre": "Animation",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "ratatouille-2007",
+    "title": "Ratatouille",
+    "year": 2007,
+    "director": "Brad Bird",
+    "cast": [
+      "Patton Oswalt",
+      "Ian Holm",
+      "Lou Romano"
+    ],
+    "genre": "Animation",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "spirited-away-2001",
+    "title": "Spirited Away",
+    "year": 2001,
+    "director": "Hayao Miyazaki",
+    "cast": [
+      "Rumi Hiiragi",
+      "Miyu Irino",
+      "Mari Natsuki"
+    ],
+    "genre": "Animation",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "my-neighbor-totoro-1988",
+    "title": "My Neighbor Totoro",
+    "year": 1988,
+    "director": "Hayao Miyazaki",
+    "cast": [
+      "Hitoshi Takagi",
+      "Noriko Hidaka",
+      "Chika Sakamoto"
+    ],
+    "genre": "Animation",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "princess-mononoke-1997",
+    "title": "Princess Mononoke",
+    "year": 1997,
+    "director": "Hayao Miyazaki",
+    "cast": [
+      "Yōji Matsuda",
+      "Yuriko Ishida",
+      "Yūko Tanaka"
+    ],
+    "genre": "Animation",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-exorcist-1973",
+    "title": "The Exorcist",
+    "year": 1973,
+    "director": "William Friedkin",
+    "cast": [
+      "Ellen Burstyn",
+      "Max von Sydow",
+      "Linda Blair"
+    ],
+    "genre": "Horror",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-french-connection-1971",
+    "title": "The French Connection",
+    "year": 1971,
+    "director": "William Friedkin",
+    "cast": [
+      "Gene Hackman",
+      "Roy Scheider",
+      "Fernando Rey"
+    ],
+    "genre": "Crime",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "dog-day-afternoon-1975",
+    "title": "Dog Day Afternoon",
+    "year": 1975,
+    "director": "Sidney Lumet",
+    "cast": [
+      "Al Pacino",
+      "John Cazale",
+      "Chris Sarandon"
+    ],
+    "genre": "Crime",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "network-1976",
+    "title": "Network",
+    "year": 1976,
+    "director": "Sidney Lumet",
+    "cast": [
+      "Faye Dunaway",
+      "William Holden",
+      "Peter Finch"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "12-angry-men-1957",
+    "title": "12 Angry Men",
+    "year": 1957,
+    "director": "Sidney Lumet",
+    "cast": [
+      "Henry Fonda",
+      "Lee J. Cobb",
+      "Martin Balsam"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "all-the-president-s-men-1976",
+    "title": "All the President’s Men",
+    "year": 1976,
+    "director": "Alan J. Pakula",
+    "cast": [
+      "Robert Redford",
+      "Dustin Hoffman",
+      "Jack Warden"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "klute-1971",
+    "title": "Klute",
+    "year": 1971,
+    "director": "Alan J. Pakula",
+    "cast": [
+      "Jane Fonda",
+      "Donald Sutherland",
+      "Roy Scheider"
+    ],
+    "genre": "Thriller",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-deer-hunter-1978",
+    "title": "The Deer Hunter",
+    "year": 1978,
+    "director": "Michael Cimino",
+    "cast": [
+      "Robert De Niro",
+      "Christopher Walken",
+      "Meryl Streep"
+    ],
+    "genre": "War",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "heaven-s-gate-1980",
+    "title": "Heaven’s Gate",
+    "year": 1980,
+    "director": "Michael Cimino",
+    "cast": [
+      "Kris Kristofferson",
+      "Christopher Walken",
+      "Isabelle Huppert"
+    ],
+    "genre": "Western",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "chinatown-1974",
+    "title": "Chinatown",
+    "year": 1974,
+    "director": "Roman Polanski",
+    "cast": [
+      "Jack Nicholson",
+      "Faye Dunaway",
+      "John Huston"
+    ],
+    "genre": "Mystery",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-pianist-2002",
+    "title": "The Pianist",
+    "year": 2002,
+    "director": "Roman Polanski",
+    "cast": [
+      "Adrien Brody",
+      "Thomas Kretschmann",
+      "Frank Finlay"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "amadeus-1984",
+    "title": "Amadeus",
+    "year": 1984,
+    "director": "Miloš Forman",
+    "cast": [
+      "F. Murray Abraham",
+      "Tom Hulce",
+      "Elizabeth Berridge"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "one-flew-over-the-cuckoo-s-nest-1975",
+    "title": "One Flew Over the Cuckoo’s Nest",
+    "year": 1975,
+    "director": "Miloš Forman",
+    "cast": [
+      "Jack Nicholson",
+      "Louise Fletcher",
+      "Michael Douglas"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-unbearable-lightness-of-being-1988",
+    "title": "The Unbearable Lightness of Being",
+    "year": 1988,
+    "director": "Philip Kaufman",
+    "cast": [
+      "Daniel Day-Lewis",
+      "Juliette Binoche",
+      "Lena Olin"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-right-stuff-1983",
+    "title": "The Right Stuff",
+    "year": 1983,
+    "director": "Philip Kaufman",
+    "cast": [
+      "Sam Shepard",
+      "Scott Glenn",
+      "Ed Harris"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-last-emperor-1987",
+    "title": "The Last Emperor",
+    "year": 1987,
+    "director": "Bernardo Bertolucci",
+    "cast": [
+      "John Lone",
+      "Joan Chen",
+      "Peter O’Toole"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-sheltering-sky-1990",
+    "title": "The Sheltering Sky",
+    "year": 1990,
+    "director": "Bernardo Bertolucci",
+    "cast": [
+      "Debra Winger",
+      "John Malkovich",
+      "Campbell Scott"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-lives-of-others-2006",
+    "title": "The Lives of Others",
+    "year": 2006,
+    "director": "Florian Henckel von Donnersmarck",
+    "cast": [
+      "Ulrich Mühe",
+      "Martina Gedeck",
+      "Sebastian Koch"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "a-separation-2011",
+    "title": "A Separation",
+    "year": 2011,
+    "director": "Asghar Farhadi",
+    "cast": [
+      "Leila Hatami",
+      "Peyman Maadi",
+      "Shahab Hosseini"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-salesman-2016",
+    "title": "The Salesman",
+    "year": 2016,
+    "director": "Asghar Farhadi",
+    "cast": [
+      "Shahab Hosseini",
+      "Taraneh Alidoosti",
+      "Babak Karimi"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "roma-2018",
+    "title": "Roma",
+    "year": 2018,
+    "director": "Alfonso Cuarón",
+    "cast": [
+      "Yalitza Aparicio",
+      "Marina de Tavira",
+      "Diego Cortina Autrey"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "children-of-men-2006",
+    "title": "Children of Men",
+    "year": 2006,
+    "director": "Alfonso Cuarón",
+    "cast": [
+      "Clive Owen",
+      "Julianne Moore",
+      "Michael Caine"
+    ],
+    "genre": "Sci-Fi",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "gravity-2013",
+    "title": "Gravity",
+    "year": 2013,
+    "director": "Alfonso Cuarón",
+    "cast": [
+      "Sandra Bullock",
+      "George Clooney",
+      "Ed Harris"
+    ],
+    "genre": "Sci-Fi",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "y-tu-mam-tambi-n-2001",
+    "title": "Y Tu Mamá También",
+    "year": 2001,
+    "director": "Alfonso Cuarón",
+    "cast": [
+      "Maribel Verdú",
+      "Gael García Bernal",
+      "Diego Luna"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-revenant-2015",
+    "title": "The Revenant",
+    "year": 2015,
+    "director": "Alejandro G. Iñárritu",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Tom Hardy",
+      "Domhnall Gleeson"
+    ],
+    "genre": "Adventure",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "birdman-2014",
+    "title": "Birdman",
+    "year": 2014,
+    "director": "Alejandro G. Iñárritu",
+    "cast": [
+      "Michael Keaton",
+      "Zach Galifianakis",
+      "Edward Norton"
+    ],
+    "genre": "Comedy",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "babel-2006",
+    "title": "Babel",
+    "year": 2006,
+    "director": "Alejandro G. Iñárritu",
+    "cast": [
+      "Brad Pitt",
+      "Cate Blanchett",
+      "Gael García Bernal"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "amores-perros-2000",
+    "title": "Amores Perros",
+    "year": 2000,
+    "director": "Alejandro G. Iñárritu",
+    "cast": [
+      "Emilio Echevarría",
+      "Gael García Bernal",
+      "Goya Toledo"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-shape-of-water-2017",
+    "title": "The Shape of Water",
+    "year": 2017,
+    "director": "Guillermo del Toro",
+    "cast": [
+      "Sally Hawkins",
+      "Michael Shannon",
+      "Richard Jenkins"
+    ],
+    "genre": "Fantasy",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "pan-s-labyrinth-2006",
+    "title": "Pan’s Labyrinth",
+    "year": 2006,
+    "director": "Guillermo del Toro",
+    "cast": [
+      "Ivana Baquero",
+      "Sergi López",
+      "Maribel Verdú"
+    ],
+    "genre": "Fantasy",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "crimson-peak-2015",
+    "title": "Crimson Peak",
+    "year": 2015,
+    "director": "Guillermo del Toro",
+    "cast": [
+      "Mia Wasikowska",
+      "Jessica Chastain",
+      "Tom Hiddleston"
+    ],
+    "genre": "Horror",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-big-lebowski-1998",
+    "title": "The Big Lebowski",
+    "year": 1998,
+    "director": "Joel Coen & Ethan Coen",
+    "cast": [
+      "Jeff Bridges",
+      "John Goodman",
+      "Julianne Moore"
+    ],
+    "genre": "Comedy",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "no-country-for-old-men-2007",
+    "title": "No Country for Old Men",
+    "year": 2007,
+    "director": "Joel Coen & Ethan Coen",
+    "cast": [
+      "Tommy Lee Jones",
+      "Javier Bardem",
+      "Josh Brolin"
+    ],
+    "genre": "Crime",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "fargo-1996",
+    "title": "Fargo",
+    "year": 1996,
+    "director": "Joel Coen & Ethan Coen",
+    "cast": [
+      "Frances McDormand",
+      "William H. Macy",
+      "Steve Buscemi"
+    ],
+    "genre": "Crime",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "o-brother-where-art-thou-2000",
+    "title": "O Brother, Where Art Thou?",
+    "year": 2000,
+    "director": "Joel Coen & Ethan Coen",
+    "cast": [
+      "George Clooney",
+      "John Turturro",
+      "Tim Blake Nelson"
+    ],
+    "genre": "Comedy",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "inside-llewyn-davis-2013",
+    "title": "Inside Llewyn Davis",
+    "year": 2013,
+    "director": "Joel Coen & Ethan Coen",
+    "cast": [
+      "Oscar Isaac",
+      "Carey Mulligan",
+      "John Goodman"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "mean-streets-1973",
+    "title": "Mean Streets",
+    "year": 1973,
+    "director": "Martin Scorsese",
+    "cast": [
+      "Robert De Niro",
+      "Harvey Keitel",
+      "David Proval"
+    ],
+    "genre": "Crime",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-last-picture-show-1971",
+    "title": "The Last Picture Show",
+    "year": 1971,
+    "director": "Peter Bogdanovich",
+    "cast": [
+      "Timothy Bottoms",
+      "Jeff Bridges",
+      "Cybill Shepherd"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "paper-moon-1973",
+    "title": "Paper Moon",
+    "year": 1973,
+    "director": "Peter Bogdanovich",
+    "cast": [
+      "Ryan O’Neal",
+      "Tatum O’Neal",
+      "Madeline Kahn"
+    ],
+    "genre": "Comedy",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "nashville-1975",
+    "title": "Nashville",
+    "year": 1975,
+    "director": "Robert Altman",
+    "cast": [
+      "Keith Carradine",
+      "Lily Tomlin",
+      "Karen Black"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-player-1992",
+    "title": "The Player",
+    "year": 1992,
+    "director": "Robert Altman",
+    "cast": [
+      "Tim Robbins",
+      "Greta Scacchi",
+      "Fred Ward"
+    ],
+    "genre": "Comedy",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "short-cuts-1993",
+    "title": "Short Cuts",
+    "year": 1993,
+    "director": "Robert Altman",
+    "cast": [
+      "Andie MacDowell",
+      "Julianne Moore",
+      "Tim Robbins"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-thin-red-line-1998",
+    "title": "The Thin Red Line",
+    "year": 1998,
+    "director": "Terrence Malick",
+    "cast": [
+      "Jim Caviezel",
+      "Sean Penn",
+      "Nick Nolte"
+    ],
+    "genre": "War",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-tree-of-life-2011",
+    "title": "The Tree of Life",
+    "year": 2011,
+    "director": "Terrence Malick",
+    "cast": [
+      "Brad Pitt",
+      "Jessica Chastain",
+      "Hunter McCracken"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "days-of-heaven-1978",
+    "title": "Days of Heaven",
+    "year": 1978,
+    "director": "Terrence Malick",
+    "cast": [
+      "Richard Gere",
+      "Brooke Adams",
+      "Sam Shepard"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "badlands-1973",
+    "title": "Badlands",
+    "year": 1973,
+    "director": "Terrence Malick",
+    "cast": [
+      "Martin Sheen",
+      "Sissy Spacek",
+      "Warren Oates"
+    ],
+    "genre": "Crime",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-terminator-1984",
+    "title": "The Terminator",
+    "year": 1984,
+    "director": "James Cameron",
+    "cast": [
+      "Arnold Schwarzenegger",
+      "Linda Hamilton",
+      "Michael Biehn"
+    ],
+    "genre": "Action",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "aliens-1986",
+    "title": "Aliens",
+    "year": 1986,
+    "director": "James Cameron",
+    "cast": [
+      "Sigourney Weaver",
+      "Michael Biehn",
+      "Paul Reiser"
+    ],
+    "genre": "Sci-Fi",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "titanic-1997",
+    "title": "Titanic",
+    "year": 1997,
+    "director": "James Cameron",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Kate Winslet",
+      "Billy Zane"
+    ],
+    "genre": "Romance",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "avatar-2009",
+    "title": "Avatar",
+    "year": 2009,
+    "director": "James Cameron",
+    "cast": [
+      "Sam Worthington",
+      "Zoe Saldana",
+      "Sigourney Weaver"
+    ],
+    "genre": "Sci-Fi",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "terminator-2-judgment-day-1991",
+    "title": "Terminator 2: Judgment Day",
+    "year": 1991,
+    "director": "James Cameron",
+    "cast": [
+      "Arnold Schwarzenegger",
+      "Linda Hamilton",
+      "Edward Furlong"
+    ],
+    "genre": "Action",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "back-to-the-future-1985",
+    "title": "Back to the Future",
+    "year": 1985,
+    "director": "Robert Zemeckis",
+    "cast": [
+      "Michael J. Fox",
+      "Christopher Lloyd",
+      "Lea Thompson"
+    ],
+    "genre": "Sci-Fi",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "who-framed-roger-rabbit-1988",
+    "title": "Who Framed Roger Rabbit",
+    "year": 1988,
+    "director": "Robert Zemeckis",
+    "cast": [
+      "Bob Hoskins",
+      "Christopher Lloyd",
+      "Joanna Cassidy"
+    ],
+    "genre": "Comedy",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "forrest-gump-1994",
+    "title": "Forrest Gump",
+    "year": 1994,
+    "director": "Robert Zemeckis",
+    "cast": [
+      "Tom Hanks",
+      "Robin Wright",
+      "Gary Sinise"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "cast-away-2000",
+    "title": "Cast Away",
+    "year": 2000,
+    "director": "Robert Zemeckis",
+    "cast": [
+      "Tom Hanks",
+      "Helen Hunt",
+      "Nick Searcy"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-prestige-2006",
+    "title": "The Prestige",
+    "year": 2006,
+    "director": "Christopher Nolan",
+    "cast": [
+      "Christian Bale",
+      "Hugh Jackman",
+      "Scarlett Johansson"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-breakfast-club-1985",
+    "title": "The Breakfast Club",
+    "year": 1985,
+    "director": "John Hughes",
+    "cast": [
+      "Emilio Estevez",
+      "Judd Nelson",
+      "Molly Ringwald"
+    ],
+    "genre": "Comedy",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "ferris-bueller-s-day-off-1986",
+    "title": "Ferris Bueller’s Day Off",
+    "year": 1986,
+    "director": "John Hughes",
+    "cast": [
+      "Matthew Broderick",
+      "Alan Ruck",
+      "Mia Sara"
+    ],
+    "genre": "Comedy",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "home-alone-1990",
+    "title": "Home Alone",
+    "year": 1990,
+    "director": "Chris Columbus",
+    "cast": [
+      "Macaulay Culkin",
+      "Joe Pesci",
+      "Daniel Stern"
+    ],
+    "genre": "Comedy",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "mrs-doubtfire-1993",
+    "title": "Mrs. Doubtfire",
+    "year": 1993,
+    "director": "Chris Columbus",
+    "cast": [
+      "Robin Williams",
+      "Sally Field",
+      "Pierce Brosnan"
+    ],
+    "genre": "Comedy",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-sixth-sense-1999",
+    "title": "The Sixth Sense",
+    "year": 1999,
+    "director": "M. Night Shyamalan",
+    "cast": [
+      "Bruce Willis",
+      "Haley Joel Osment",
+      "Toni Collette"
+    ],
+    "genre": "Thriller",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "unbreakable-2000",
+    "title": "Unbreakable",
+    "year": 2000,
+    "director": "M. Night Shyamalan",
+    "cast": [
+      "Bruce Willis",
+      "Samuel L. Jackson",
+      "Robin Wright"
+    ],
+    "genre": "Thriller",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "split-2016",
+    "title": "Split",
+    "year": 2016,
+    "director": "M. Night Shyamalan",
+    "cast": [
+      "James McAvoy",
+      "Anya Taylor-Joy",
+      "Betty Buckley"
+    ],
+    "genre": "Thriller",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-big-short-2015",
+    "title": "The Big Short",
+    "year": 2015,
+    "director": "Adam McKay",
+    "cast": [
+      "Christian Bale",
+      "Steve Carell",
+      "Ryan Gosling"
+    ],
+    "genre": "Comedy",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "vice-2018",
+    "title": "Vice",
+    "year": 2018,
+    "director": "Adam McKay",
+    "cast": [
+      "Christian Bale",
+      "Amy Adams",
+      "Steve Carell"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "boogie-nights-1997",
+    "title": "Boogie Nights",
+    "year": 1997,
+    "director": "Paul Thomas Anderson",
+    "cast": [
+      "Mark Wahlberg",
+      "Julianne Moore",
+      "Burt Reynolds"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "there-will-be-blood-2007",
+    "title": "There Will Be Blood",
+    "year": 2007,
+    "director": "Paul Thomas Anderson",
+    "cast": [
+      "Daniel Day-Lewis",
+      "Paul Dano",
+      "Ciarán Hinds"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-master-2012",
+    "title": "The Master",
+    "year": 2012,
+    "director": "Paul Thomas Anderson",
+    "cast": [
+      "Joaquin Phoenix",
+      "Philip Seymour Hoffman",
+      "Amy Adams"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "licorice-pizza-2021",
+    "title": "Licorice Pizza",
+    "year": 2021,
+    "director": "Paul Thomas Anderson",
+    "cast": [
+      "Alana Haim",
+      "Cooper Hoffman",
+      "Sean Penn"
+    ],
+    "genre": "Romance",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "magnolia-1999",
+    "title": "Magnolia",
+    "year": 1999,
+    "director": "Paul Thomas Anderson",
+    "cast": [
+      "Tom Cruise",
+      "Julianne Moore",
+      "Philip Seymour Hoffman"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-wrestler-2008",
+    "title": "The Wrestler",
+    "year": 2008,
+    "director": "Darren Aronofsky",
+    "cast": [
+      "Mickey Rourke",
+      "Marisa Tomei",
+      "Evan Rachel Wood"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "black-swan-2010",
+    "title": "Black Swan",
+    "year": 2010,
+    "director": "Darren Aronofsky",
+    "cast": [
+      "Natalie Portman",
+      "Mila Kunis",
+      "Vincent Cassel"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "requiem-for-a-dream-2000",
+    "title": "Requiem for a Dream",
+    "year": 2000,
+    "director": "Darren Aronofsky",
+    "cast": [
+      "Ellen Burstyn",
+      "Jared Leto",
+      "Jennifer Connelly"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "mother-2017",
+    "title": "Mother!",
+    "year": 2017,
+    "director": "Darren Aronofsky",
+    "cast": [
+      "Jennifer Lawrence",
+      "Javier Bardem",
+      "Ed Harris"
+    ],
+    "genre": "Horror",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "carol-2015",
+    "title": "Carol",
+    "year": 2015,
+    "director": "Todd Haynes",
+    "cast": [
+      "Cate Blanchett",
+      "Rooney Mara",
+      "Sarah Paulson"
+    ],
+    "genre": "Romance",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "i-m-not-there-2007",
+    "title": "I’m Not There",
+    "year": 2007,
+    "director": "Todd Haynes",
+    "cast": [
+      "Christian Bale",
+      "Cate Blanchett",
+      "Heath Ledger"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "safe-1995",
+    "title": "Safe",
+    "year": 1995,
+    "director": "Todd Haynes",
+    "cast": [
+      "Julianne Moore",
+      "Xander Berkeley",
+      "Dean Norris"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-assassination-of-jesse-james-by-the-coward-robert-ford-2007",
+    "title": "The Assassination of Jesse James by the Coward Robert Ford",
+    "year": 2007,
+    "director": "Andrew Dominik",
+    "cast": [
+      "Brad Pitt",
+      "Casey Affleck",
+      "Sam Shepard"
+    ],
+    "genre": "Western",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-proposition-2005",
+    "title": "The Proposition",
+    "year": 2005,
+    "director": "John Hillcoat",
+    "cast": [
+      "Guy Pearce",
+      "Ray Winstone",
+      "Emily Watson"
+    ],
+    "genre": "Western",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "mad-max-fury-road-2015",
+    "title": "Mad Max: Fury Road",
+    "year": 2015,
+    "director": "George Miller",
+    "cast": [
+      "Tom Hardy",
+      "Charlize Theron",
+      "Nicholas Hoult"
+    ],
+    "genre": "Action",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "babe-1995",
+    "title": "Babe",
+    "year": 1995,
+    "director": "Chris Noonan",
+    "cast": [
+      "James Cromwell",
+      "Magda Szubanski",
+      "Christine Cavanaugh"
+    ],
+    "genre": "Family",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-piano-teacher-2001",
+    "title": "The Piano Teacher",
+    "year": 2001,
+    "director": "Michael Haneke",
+    "cast": [
+      "Isabelle Huppert",
+      "Benoît Magimel",
+      "Annie Girardot"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "amour-2012",
+    "title": "Amour",
+    "year": 2012,
+    "director": "Michael Haneke",
+    "cast": [
+      "Jean-Louis Trintignant",
+      "Emmanuelle Riva",
+      "Isabelle Huppert"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "funny-games-1997",
+    "title": "Funny Games",
+    "year": 1997,
+    "director": "Michael Haneke",
+    "cast": [
+      "Susanne Lothar",
+      "Ulrich Mühe",
+      "Arno Frisch"
+    ],
+    "genre": "Thriller",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "drive-2011",
+    "title": "Drive",
+    "year": 2011,
+    "director": "Nicolas Winding Refn",
+    "cast": [
+      "Ryan Gosling",
+      "Carey Mulligan",
+      "Bryan Cranston"
+    ],
+    "genre": "Action",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-neon-demon-2016",
+    "title": "The Neon Demon",
+    "year": 2016,
+    "director": "Nicolas Winding Refn",
+    "cast": [
+      "Elle Fanning",
+      "Jena Malone",
+      "Keanu Reeves"
+    ],
+    "genre": "Horror",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-lobster-2015",
+    "title": "The Lobster",
+    "year": 2015,
+    "director": "Yorgos Lanthimos",
+    "cast": [
+      "Colin Farrell",
+      "Rachel Weisz",
+      "Jessica Barden"
+    ],
+    "genre": "Comedy",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-favourite-2018",
+    "title": "The Favourite",
+    "year": 2018,
+    "director": "Yorgos Lanthimos",
+    "cast": [
+      "Olivia Colman",
+      "Emma Stone",
+      "Rachel Weisz"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "poor-things-2023",
+    "title": "Poor Things",
+    "year": 2023,
+    "director": "Yorgos Lanthimos",
+    "cast": [
+      "Emma Stone",
+      "Mark Ruffalo",
+      "Willem Dafoe"
+    ],
+    "genre": "Comedy",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-florida-project-2017",
+    "title": "The Florida Project",
+    "year": 2017,
+    "director": "Sean Baker",
+    "cast": [
+      "Brooklynn Prince",
+      "Willem Dafoe",
+      "Bria Vinaite"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "tangerine-2015",
+    "title": "Tangerine",
+    "year": 2015,
+    "director": "Sean Baker",
+    "cast": [
+      "Kitana Kiki Rodriguez",
+      "Mya Taylor",
+      "Karren Karagulian"
+    ],
+    "genre": "Comedy",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "uncut-gems-2019",
+    "title": "Uncut Gems",
+    "year": 2019,
+    "director": "Josh Safdie & Benny Safdie",
+    "cast": [
+      "Adam Sandler",
+      "Julia Fox",
+      "Idina Menzel"
+    ],
+    "genre": "Crime",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "good-time-2017",
+    "title": "Good Time",
+    "year": 2017,
+    "director": "Josh Safdie & Benny Safdie",
+    "cast": [
+      "Robert Pattinson",
+      "Benny Safdie",
+      "Jennifer Jason Leigh"
+    ],
+    "genre": "Crime",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-farewell-2019",
+    "title": "The Farewell",
+    "year": 2019,
+    "director": "Lulu Wang",
+    "cast": [
+      "Awkwafina",
+      "Tzi Ma",
+      "Diana Lin"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "minari-2020",
+    "title": "Minari",
+    "year": 2020,
+    "director": "Lee Isaac Chung",
+    "cast": [
+      "Steven Yeun",
+      "Han Ye-ri",
+      "Youn Yuh-jung"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "get-out-2017",
+    "title": "Get Out",
+    "year": 2017,
+    "director": "Jordan Peele",
+    "cast": [
+      "Daniel Kaluuya",
+      "Allison Williams",
+      "Bradley Whitford"
+    ],
+    "genre": "Horror",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "us-2019",
+    "title": "Us",
+    "year": 2019,
+    "director": "Jordan Peele",
+    "cast": [
+      "Lupita Nyong’o",
+      "Winston Duke",
+      "Elisabeth Moss"
+    ],
+    "genre": "Horror",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-artist-2011",
+    "title": "The Artist",
+    "year": 2011,
+    "director": "Michel Hazanavicius",
+    "cast": [
+      "Jean Dujardin",
+      "Bérénice Bejo",
+      "John Goodman"
+    ],
+    "genre": "Romance",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "crouching-tiger-hidden-dragon-2000",
+    "title": "Crouching Tiger, Hidden Dragon",
+    "year": 2000,
+    "director": "Ang Lee",
+    "cast": [
+      "Chow Yun-fat",
+      "Michelle Yeoh",
+      "Zhang Ziyi"
+    ],
+    "genre": "Action",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "brokeback-mountain-2005",
+    "title": "Brokeback Mountain",
+    "year": 2005,
+    "director": "Ang Lee",
+    "cast": [
+      "Heath Ledger",
+      "Jake Gyllenhaal",
+      "Michelle Williams"
+    ],
+    "genre": "Romance",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "life-of-pi-2012",
+    "title": "Life of Pi",
+    "year": 2012,
+    "director": "Ang Lee",
+    "cast": [
+      "Suraj Sharma",
+      "Irrfan Khan",
+      "Adil Hussain"
+    ],
+    "genre": "Adventure",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-ice-storm-1997",
+    "title": "The Ice Storm",
+    "year": 1997,
+    "director": "Ang Lee",
+    "cast": [
+      "Kevin Kline",
+      "Joan Allen",
+      "Sigourney Weaver"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-handmaiden-2016",
+    "title": "The Handmaiden",
+    "year": 2016,
+    "director": "Park Chan-wook",
+    "cast": [
+      "Kim Min-hee",
+      "Kim Tae-ri",
+      "Ha Jung-woo"
+    ],
+    "genre": "Thriller",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "oldboy-2003",
+    "title": "Oldboy",
+    "year": 2003,
+    "director": "Park Chan-wook",
+    "cast": [
+      "Choi Min-sik",
+      "Yoo Ji-tae",
+      "Kang Hye-jung"
+    ],
+    "genre": "Thriller",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "decision-to-leave-2022",
+    "title": "Decision to Leave",
+    "year": 2022,
+    "director": "Park Chan-wook",
+    "cast": [
+      "Tang Wei",
+      "Park Hae-il",
+      "Lee Jung-hyun"
+    ],
+    "genre": "Mystery",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "burning-2018",
+    "title": "Burning",
+    "year": 2018,
+    "director": "Lee Chang-dong",
+    "cast": [
+      "Yoo Ah-in",
+      "Steven Yeun",
+      "Jeon Jong-seo"
+    ],
+    "genre": "Mystery",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "poetry-2010",
+    "title": "Poetry",
+    "year": 2010,
+    "director": "Lee Chang-dong",
+    "cast": [
+      "Yoon Jeong-hee",
+      "Lee David",
+      "Kim Hee-ra"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-seventh-seal-1957",
+    "title": "The Seventh Seal",
+    "year": 1957,
+    "director": "Ingmar Bergman",
+    "cast": [
+      "Max von Sydow",
+      "Gunnar Björnstrand",
+      "Bengt Ekeroth"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "fanny-and-alexander-1982",
+    "title": "Fanny and Alexander",
+    "year": 1982,
+    "director": "Ingmar Bergman",
+    "cast": [
+      "Bertil Guve",
+      "Pernilla Allwin",
+      "Kristina Adolphson"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "persona-1966",
+    "title": "Persona",
+    "year": 1966,
+    "director": "Ingmar Bergman",
+    "cast": [
+      "Bibi Andersson",
+      "Liv Ullmann",
+      "Margaretha Krook"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "stalker-1979",
+    "title": "Stalker",
+    "year": 1979,
+    "director": "Andrei Tarkovsky",
+    "cast": [
+      "Alexander Kaidanovsky",
+      "Anatoly Solonitsyn",
+      "Alisa Freindlich"
+    ],
+    "genre": "Sci-Fi",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "solaris-1972",
+    "title": "Solaris",
+    "year": 1972,
+    "director": "Andrei Tarkovsky",
+    "cast": [
+      "Natalya Bondarchuk",
+      "Donatas Banionis",
+      "Jüri Järvet"
+    ],
+    "genre": "Sci-Fi",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "come-and-see-1985",
+    "title": "Come and See",
+    "year": 1985,
+    "director": "Elem Klimov",
+    "cast": [
+      "Aleksei Kravchenko",
+      "Olga Mironova",
+      "Liubomiras Laucevicius"
+    ],
+    "genre": "War",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "paris-texas-1984",
+    "title": "Paris, Texas",
+    "year": 1984,
+    "director": "Wim Wenders",
+    "cast": [
+      "Harry Dean Stanton",
+      "Nastassja Kinski",
+      "Dean Stockwell"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "wings-of-desire-1987",
+    "title": "Wings of Desire",
+    "year": 1987,
+    "director": "Wim Wenders",
+    "cast": [
+      "Bruno Ganz",
+      "Solveig Dommartin",
+      "Otto Sander"
+    ],
+    "genre": "Fantasy",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-double-life-of-v-ronique-1991",
+    "title": "The Double Life of Véronique",
+    "year": 1991,
+    "director": "Krzysztof Kieślowski",
+    "cast": [
+      "Irène Jacob",
+      "Philippe Volter",
+      "Sandrine Piau"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "three-colors-blue-1993",
+    "title": "Three Colors: Blue",
+    "year": 1993,
+    "director": "Krzysztof Kieślowski",
+    "cast": [
+      "Juliette Binoche",
+      "Benoît Régent",
+      "Florence Pernel"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-umbrellas-of-cherbourg-1964",
+    "title": "The Umbrellas of Cherbourg",
+    "year": 1964,
+    "director": "Jacques Demy",
+    "cast": [
+      "Catherine Deneuve",
+      "Nino Castelnuovo",
+      "Anne Vernon"
+    ],
+    "genre": "Romance",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-battle-of-algiers-1966",
+    "title": "The Battle of Algiers",
+    "year": 1966,
+    "director": "Gillo Pontecorvo",
+    "cast": [
+      "Brahim Hadjadj",
+      "Jean Martin",
+      "Yacef Saadi"
+    ],
+    "genre": "War",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-conformist-1970",
+    "title": "The Conformist",
+    "year": 1970,
+    "director": "Bernardo Bertolucci",
+    "cast": [
+      "Jean-Louis Trintignant",
+      "Stefania Sandrelli",
+      "Gaston Modot"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "aguirre-the-wrath-of-god-1972",
+    "title": "Aguirre, the Wrath of God",
+    "year": 1972,
+    "director": "Werner Herzog",
+    "cast": [
+      "Klaus Kinski",
+      "Helena Rojo",
+      "Del Negro"
+    ],
+    "genre": "Adventure",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "fitzcarraldo-1982",
+    "title": "Fitzcarraldo",
+    "year": 1982,
+    "director": "Werner Herzog",
+    "cast": [
+      "Klaus Kinski",
+      "Claudia Cardinale",
+      "José Lewgoy"
+    ],
+    "genre": "Adventure",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-act-of-killing-2012",
+    "title": "The Act of Killing",
+    "year": 2012,
+    "director": "Joshua Oppenheimer",
+    "cast": [
+      "Anwar Congo",
+      "Haji Anif",
+      "Herman Koto"
+    ],
+    "genre": "Documentary",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-blair-witch-project-1999",
+    "title": "The Blair Witch Project",
+    "year": 1999,
+    "director": "Daniel Myrick & Eduardo Sánchez",
+    "cast": [
+      "Heather Donahue",
+      "Michael C. Williams",
+      "Joshua Leonard"
+    ],
+    "genre": "Horror",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-babadook-2014",
+    "title": "The Babadook",
+    "year": 2014,
+    "director": "Jennifer Kent",
+    "cast": [
+      "Essie Davis",
+      "Noah Wiseman",
+      "Daniel Henshall"
+    ],
+    "genre": "Horror",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "it-follows-2014",
+    "title": "It Follows",
+    "year": 2014,
+    "director": "David Robert Mitchell",
+    "cast": [
+      "Maika Monroe",
+      "Keir Gilchrist",
+      "Daniel Zovatto"
+    ],
+    "genre": "Horror",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "hereditary-2018",
+    "title": "Hereditary",
+    "year": 2018,
+    "director": "Ari Aster",
+    "cast": [
+      "Toni Collette",
+      "Milly Shapiro",
+      "Alex Wolff"
+    ],
+    "genre": "Horror",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "midsommar-2019",
+    "title": "Midsommar",
+    "year": 2019,
+    "director": "Ari Aster",
+    "cast": [
+      "Florence Pugh",
+      "Jack Reynor",
+      "William Jackson Harper"
+    ],
+    "genre": "Horror",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-lighthouse-2019",
+    "title": "The Lighthouse",
+    "year": 2019,
+    "director": "Robert Eggers",
+    "cast": [
+      "Robert Pattinson",
+      "Willem Dafoe",
+      "Valeriia Karaman"
+    ],
+    "genre": "Horror",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-witch-2015",
+    "title": "The Witch",
+    "year": 2015,
+    "director": "Robert Eggers",
+    "cast": [
+      "Anya Taylor-Joy",
+      "Ralph Ineson",
+      "Kate Dickie"
+    ],
+    "genre": "Horror",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-godfather-part-iii-1990",
+    "title": "The Godfather Part III",
+    "year": 1990,
+    "director": "Francis Ford Coppola",
+    "cast": [
+      "Al Pacino",
+      "Diane Keaton",
+      "Andy García"
+    ],
+    "genre": "Crime",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-untouchables-1987",
+    "title": "The Untouchables",
+    "year": 1987,
+    "director": "Brian De Palma",
+    "cast": [
+      "Kevin Costner",
+      "Sean Connery",
+      "Robert De Niro"
+    ],
+    "genre": "Crime",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "scarface-1983",
+    "title": "Scarface",
+    "year": 1983,
+    "director": "Brian De Palma",
+    "cast": [
+      "Al Pacino",
+      "Michelle Pfeiffer",
+      "Steven Bauer"
+    ],
+    "genre": "Crime",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "carrie-1976",
+    "title": "Carrie",
+    "year": 1976,
+    "director": "Brian De Palma",
+    "cast": [
+      "Sissy Spacek",
+      "Piper Laurie",
+      "Amy Irving"
+    ],
+    "genre": "Horror",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "mission-impossible-1996",
+    "title": "Mission: Impossible",
+    "year": 1996,
+    "director": "Brian De Palma",
+    "cast": [
+      "Tom Cruise",
+      "Jon Voight",
+      "Emmanuelle Béart"
+    ],
+    "genre": "Action",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "heat-1995",
+    "title": "Heat",
+    "year": 1995,
+    "director": "Michael Mann",
+    "cast": [
+      "Al Pacino",
+      "Robert De Niro",
+      "Val Kilmer"
+    ],
+    "genre": "Crime",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-insider-1999",
+    "title": "The Insider",
+    "year": 1999,
+    "director": "Michael Mann",
+    "cast": [
+      "Russell Crowe",
+      "Al Pacino",
+      "Christopher Plummer"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "collateral-2004",
+    "title": "Collateral",
+    "year": 2004,
+    "director": "Michael Mann",
+    "cast": [
+      "Tom Cruise",
+      "Jamie Foxx",
+      "Jada Pinkett Smith"
+    ],
+    "genre": "Crime",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-last-of-the-mohicans-1992",
+    "title": "The Last of the Mohicans",
+    "year": 1992,
+    "director": "Michael Mann",
+    "cast": [
+      "Daniel Day-Lewis",
+      "Madeleine Stowe",
+      "Russell Means"
+    ],
+    "genre": "Adventure",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-aviator-2004",
+    "title": "The Aviator",
+    "year": 2004,
+    "director": "Martin Scorsese",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Cate Blanchett",
+      "Kate Beckinsale"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "hugo-2011",
+    "title": "Hugo",
+    "year": 2011,
+    "director": "Martin Scorsese",
+    "cast": [
+      "Asa Butterfield",
+      "Chloë Grace Moretz",
+      "Christopher Lee"
+    ],
+    "genre": "Adventure",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "silence-2016",
+    "title": "Silence",
+    "year": 2016,
+    "director": "Martin Scorsese",
+    "cast": [
+      "Andrew Garfield",
+      "Adam Driver",
+      "Liam Neeson"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-irishman-2019",
+    "title": "The Irishman",
+    "year": 2019,
+    "director": "Martin Scorsese",
+    "cast": [
+      "Robert De Niro",
+      "Al Pacino",
+      "Joe Pesci"
+    ],
+    "genre": "Crime",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "killers-of-the-flower-moon-2023",
+    "title": "Killers of the Flower Moon",
+    "year": 2023,
+    "director": "Martin Scorsese",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Robert De Niro",
+      "Lily Gladstone"
+    ],
+    "genre": "Crime",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "punch-drunk-love-2002",
+    "title": "Punch-Drunk Love",
+    "year": 2002,
+    "director": "Paul Thomas Anderson",
+    "cast": [
+      "Adam Sandler",
+      "Emily Watson",
+      "Philip Seymour Hoffman"
+    ],
+    "genre": "Romance",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "rushmore-1998",
+    "title": "Rushmore",
+    "year": 1998,
+    "director": "Wes Anderson",
+    "cast": [
+      "Jason Schwartzman",
+      "Bill Murray",
+      "Olivia Williams"
+    ],
+    "genre": "Comedy",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "moonrise-kingdom-2012",
+    "title": "Moonrise Kingdom",
+    "year": 2012,
+    "director": "Wes Anderson",
+    "cast": [
+      "Jared Gilman",
+      "Kara Hayward",
+      "Bruce Willis"
+    ],
+    "genre": "Romance",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "isle-of-dogs-2018",
+    "title": "Isle of Dogs",
+    "year": 2018,
+    "director": "Wes Anderson",
+    "cast": [
+      "Bryan Cranston",
+      "Koyu Rankin",
+      "Edward Norton"
+    ],
+    "genre": "Animation",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-batman-2022",
+    "title": "The Batman",
+    "year": 2022,
+    "director": "Matt Reeves",
+    "cast": [
+      "Robert Pattinson",
+      "Zoë Kravitz",
+      "Jeffrey Wright"
+    ],
+    "genre": "Action",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "planet-of-the-apes-1968",
+    "title": "Planet of the Apes",
+    "year": 1968,
+    "director": "Franklin J. Schaffner",
+    "cast": [
+      "Charlton Heston",
+      "Roddy McDowall",
+      "Kim Hunter"
+    ],
+    "genre": "Sci-Fi",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "dawn-of-the-planet-of-the-apes-2014",
+    "title": "Dawn of the Planet of the Apes",
+    "year": 2014,
+    "director": "Matt Reeves",
+    "cast": [
+      "Andy Serkis",
+      "Jason Clarke",
+      "Gary Oldman"
+    ],
+    "genre": "Sci-Fi",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "war-for-the-planet-of-the-apes-2017",
+    "title": "War for the Planet of the Apes",
+    "year": 2017,
+    "director": "Matt Reeves",
+    "cast": [
+      "Andy Serkis",
+      "Woody Harrelson",
+      "Steve Zahn"
+    ],
+    "genre": "Sci-Fi",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "let-the-right-one-in-2008",
+    "title": "Let the Right One In",
+    "year": 2008,
+    "director": "Tomas Alfredson",
+    "cast": [
+      "Kåre Hedebrant",
+      "Lina Leandersson",
+      "Per Ragnar"
+    ],
+    "genre": "Horror",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "tinker-tailor-soldier-spy-2011",
+    "title": "Tinker Tailor Soldier Spy",
+    "year": 2011,
+    "director": "Tomas Alfredson",
+    "cast": [
+      "Gary Oldman",
+      "Colin Firth",
+      "Tom Hardy"
+    ],
+    "genre": "Thriller",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "a-beautiful-mind-2001",
+    "title": "A Beautiful Mind",
+    "year": 2001,
+    "director": "Ron Howard",
+    "cast": [
+      "Russell Crowe",
+      "Ed Harris",
+      "Jennifer Connelly"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "apollo-13-1995",
+    "title": "Apollo 13",
+    "year": 1995,
+    "director": "Ron Howard",
+    "cast": [
+      "Tom Hanks",
+      "Bill Paxton",
+      "Kevin Bacon"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "frost-nixon-2008",
+    "title": "Frost/Nixon",
+    "year": 2008,
+    "director": "Ron Howard",
+    "cast": [
+      "Frank Langella",
+      "Michael Sheen",
+      "Kevin Bacon"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "rush-2013",
+    "title": "Rush",
+    "year": 2013,
+    "director": "Ron Howard",
+    "cast": [
+      "Daniel Brühl",
+      "Chris Hemsworth",
+      "Olivia Wilde"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "once-2007",
+    "title": "Once",
+    "year": 2007,
+    "director": "John Carney",
+    "cast": [
+      "Glen Hansard",
+      "Markéta Irglová",
+      "Hugh Walsh"
+    ],
+    "genre": "Romance",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "sing-street-2016",
+    "title": "Sing Street",
+    "year": 2016,
+    "director": "John Carney",
+    "cast": [
+      "Ferdia Walsh-Peelo",
+      "Aidan Gillen",
+      "Maria Doyle Kennedy"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "begin-again-2013",
+    "title": "Begin Again",
+    "year": 2013,
+    "director": "John Carney",
+    "cast": [
+      "Keira Knightley",
+      "Mark Ruffalo",
+      "Adam Levine"
+    ],
+    "genre": "Romance",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "whiplash-2014",
+    "title": "Whiplash",
+    "year": 2014,
+    "director": "Damien Chazelle",
+    "cast": [
+      "Miles Teller",
+      "J.K. Simmons",
+      "Paul Reiser"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "la-la-land-2016",
+    "title": "La La Land",
+    "year": 2016,
+    "director": "Damien Chazelle",
+    "cast": [
+      "Ryan Gosling",
+      "Emma Stone",
+      "John Legend"
+    ],
+    "genre": "Romance",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "first-man-2018",
+    "title": "First Man",
+    "year": 2018,
+    "director": "Damien Chazelle",
+    "cast": [
+      "Ryan Gosling",
+      "Claire Foy",
+      "Jason Clarke"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "babylon-2022",
+    "title": "Babylon",
+    "year": 2022,
+    "director": "Damien Chazelle",
+    "cast": [
+      "Brad Pitt",
+      "Margot Robbie",
+      "Jean Smart"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-apartment-1960",
+    "title": "The Apartment",
+    "year": 1960,
+    "director": "Billy Wilder",
+    "cast": [
+      "Jack Lemmon",
+      "Shirley MacLaine",
+      "Fred MacMurray"
+    ],
+    "genre": "Romance",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "sunset-boulevard-1950",
+    "title": "Sunset Boulevard",
+    "year": 1950,
+    "director": "Billy Wilder",
+    "cast": [
+      "William Holden",
+      "Gloria Swanson",
+      "Erich von Stroheim"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "double-indemnity-1944",
+    "title": "Double Indemnity",
+    "year": 1944,
+    "director": "Billy Wilder",
+    "cast": [
+      "Fred MacMurray",
+      "Barbara Stanwyck",
+      "Edward G. Robinson"
+    ],
+    "genre": "Crime",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "some-like-it-hot-1959",
+    "title": "Some Like It Hot",
+    "year": 1959,
+    "director": "Billy Wilder",
+    "cast": [
+      "Marilyn Monroe",
+      "Tony Curtis",
+      "Jack Lemmon"
+    ],
+    "genre": "Comedy",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-sting-1973",
+    "title": "The Sting",
+    "year": 1973,
+    "director": "George Roy Hill",
+    "cast": [
+      "Paul Newman",
+      "Robert Redford",
+      "Robert Shaw"
+    ],
+    "genre": "Crime",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "butch-cassidy-and-the-sundance-kid-1969",
+    "title": "Butch Cassidy and the Sundance Kid",
+    "year": 1969,
+    "director": "George Roy Hill",
+    "cast": [
+      "Paul Newman",
+      "Robert Redford",
+      "Katharine Ross"
+    ],
+    "genre": "Western",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "joker-2019",
+    "title": "Joker",
+    "year": 2019,
+    "director": "Todd Phillips",
+    "cast": [
+      "Joaquin Phoenix",
+      "Robert De Niro",
+      "Zazie Beetz"
+    ],
+    "genre": "Crime",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-hangover-2009",
+    "title": "The Hangover",
+    "year": 2009,
+    "director": "Todd Phillips",
+    "cast": [
+      "Bradley Cooper",
+      "Ed Helms",
+      "Zach Galifianakis"
+    ],
+    "genre": "Comedy",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "war-dogs-2016",
+    "title": "War Dogs",
+    "year": 2016,
+    "director": "Todd Phillips",
+    "cast": [
+      "Jonah Hill",
+      "Miles Teller",
+      "Bradley Cooper"
+    ],
+    "genre": "Comedy",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "black-panther-2018",
+    "title": "Black Panther",
+    "year": 2018,
+    "director": "Ryan Coogler",
+    "cast": [
+      "Chadwick Boseman",
+      "Michael B. Jordan",
+      "Lupita Nyong’o"
+    ],
+    "genre": "Action",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "creed-2015",
+    "title": "Creed",
+    "year": 2015,
+    "director": "Ryan Coogler",
+    "cast": [
+      "Michael B. Jordan",
+      "Sylvester Stallone",
+      "Tessa Thompson"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "fruitvale-station-2013",
+    "title": "Fruitvale Station",
+    "year": 2013,
+    "director": "Ryan Coogler",
+    "cast": [
+      "Michael B. Jordan",
+      "Melonie Diaz",
+      "Octavia Spencer"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "nope-2022",
+    "title": "Nope",
+    "year": 2022,
+    "director": "Jordan Peele",
+    "cast": [
+      "Daniel Kaluuya",
+      "Keke Palmer",
+      "Steven Yeun"
+    ],
+    "genre": "Sci-Fi",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "everything-everywhere-all-at-once-2022",
+    "title": "Everything Everywhere All at Once",
+    "year": 2022,
+    "director": "Daniel Kwan & Daniel Scheinert",
+    "cast": [
+      "Michelle Yeoh",
+      "Ke Huy Quan",
+      "Jamie Lee Curtis"
+    ],
+    "genre": "Sci-Fi",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "swiss-army-man-2016",
+    "title": "Swiss Army Man",
+    "year": 2016,
+    "director": "Daniel Kwan & Daniel Scheinert",
+    "cast": [
+      "Paul Dano",
+      "Daniel Radcliffe",
+      "Mary Elizabeth Winstead"
+    ],
+    "genre": "Comedy",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-worst-person-in-the-world-2021",
+    "title": "The Worst Person in the World",
+    "year": 2021,
+    "director": "Joachim Trier",
+    "cast": [
+      "Renate Reinsve",
+      "Anders Danielsen Lie",
+      "Herbert Nordrum"
+    ],
+    "genre": "Romance",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "oslo-august-31st-2011",
+    "title": "Oslo, August 31st",
+    "year": 2011,
+    "director": "Joachim Trier",
+    "cast": [
+      "Anders Danielsen Lie",
+      "Hans Olav Brenner",
+      "Ingrid Olava"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-graduate-1967",
+    "title": "The Graduate",
+    "year": 1967,
+    "director": "Mike Nichols",
+    "cast": [
+      "Dustin Hoffman",
+      "Anne Bancroft",
+      "Katharine Ross"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "who-s-afraid-of-virginia-woolf-1966",
+    "title": "Who’s Afraid of Virginia Woolf?",
+    "year": 1966,
+    "director": "Mike Nichols",
+    "cast": [
+      "Elizabeth Taylor",
+      "Richard Burton",
+      "George Segal"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-long-goodbye-1973",
+    "title": "The Long Goodbye",
+    "year": 1973,
+    "director": "Robert Altman",
+    "cast": [
+      "Elliott Gould",
+      "Nina van Pallandt",
+      "Sterling Hayden"
+    ],
+    "genre": "Mystery",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "mccabe-mrs-miller-1971",
+    "title": "McCabe & Mrs. Miller",
+    "year": 1971,
+    "director": "Robert Altman",
+    "cast": [
+      "Warren Beatty",
+      "Julie Christie",
+      "John Schuck"
+    ],
+    "genre": "Western",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-taking-of-pelham-one-two-three-1974",
+    "title": "The Taking of Pelham One Two Three",
+    "year": 1974,
+    "director": "Joseph Sargent",
+    "cast": [
+      "Walter Matthau",
+      "Robert Shaw",
+      "Martin Balsam"
+    ],
+    "genre": "Thriller",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "serpico-1973",
+    "title": "Serpico",
+    "year": 1973,
+    "director": "Sidney Lumet",
+    "cast": [
+      "Al Pacino",
+      "John Randolph",
+      "Jack Kehoe"
+    ],
+    "genre": "Crime",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-french-lieutenant-s-woman-1981",
+    "title": "The French Lieutenant’s Woman",
+    "year": 1981,
+    "director": "Karel Reisz",
+    "cast": [
+      "Meryl Streep",
+      "Jeremy Irons",
+      "Hilton McRae"
+    ],
+    "genre": "Romance",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-mission-1986",
+    "title": "The Mission",
+    "year": 1986,
+    "director": "Roland Joffé",
+    "cast": [
+      "Robert De Niro",
+      "Jeremy Irons",
+      "Ray McAnally"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-killing-fields-1984",
+    "title": "The Killing Fields",
+    "year": 1984,
+    "director": "Roland Joffé",
+    "cast": [
+      "Sam Waterston",
+      "Haing S. Ngor",
+      "John Malkovich"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "my-left-foot-1989",
+    "title": "My Left Foot",
+    "year": 1989,
+    "director": "Jim Sheridan",
+    "cast": [
+      "Daniel Day-Lewis",
+      "Brenda Fricker",
+      "Alison Whelan"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "in-the-name-of-the-father-1993",
+    "title": "In the Name of the Father",
+    "year": 1993,
+    "director": "Jim Sheridan",
+    "cast": [
+      "Daniel Day-Lewis",
+      "Pete Postlethwaite",
+      "Emma Thompson"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-commitments-1991",
+    "title": "The Commitments",
+    "year": 1991,
+    "director": "Alan Parker",
+    "cast": [
+      "Robert Arkins",
+      "Michael Aherne",
+      "Angeline Ball"
+    ],
+    "genre": "Comedy",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "midnight-express-1978",
+    "title": "Midnight Express",
+    "year": 1978,
+    "director": "Alan Parker",
+    "cast": [
+      "Brad Davis",
+      "Irene Miracle",
+      "Bo Hopkins"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-color-purple-1985",
+    "title": "The Color Purple",
+    "year": 1985,
+    "director": "Steven Spielberg",
+    "cast": [
+      "Whoopi Goldberg",
+      "Danny Glover",
+      "Oprah Winfrey"
+    ],
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "the-last-waltz-1978",
+    "title": "The Last Waltz",
+    "year": 1978,
+    "director": "Martin Scorsese",
+    "cast": [
+      "Robbie Robertson",
+      "Neil Young",
+      "Eric Clapton"
+    ],
+    "genre": "Documentary",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  },
+  {
+    "id": "stop-making-sense-1984",
+    "title": "Stop Making Sense",
+    "year": 1984,
+    "director": "Jonathan Demme",
+    "cast": [
+      "David Byrne",
+      "Tina Weymouth",
+      "Chris Frantz"
+    ],
+    "genre": "Documentary",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=400&q=75&auto=format&fit=crop"
+  }
+]
